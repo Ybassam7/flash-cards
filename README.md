@@ -2,6 +2,8 @@
 
 A responsive React-based flashcard application designed to make learning interactive and engaging. Users can click on a question card to reveal its answer, enabling a dynamic study experience. The app demonstrates React best practices, including state management, conditional rendering, and responsive design.
 
+check it live at : https://flash-cards-roan.vercel.app/
+
 ## Features and Best Practices
 - **Interactive Flashcards:** Each card displays a question, and clicking it reveals the answer. Clicking again hides the answer.
   
